@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840987184360",
+    "project_id": "flutterlcobootcamp-ce073",
+    "storage_bucket": "flutterlcobootcamp-ce073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840987184360:android:dac29b16a84e9e3efa0d5d",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840987184360-vc8a1ossfmvjianq0huab5h8qjc5a3l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ux-y2-HMOM4XyEJ8CGCAf0McXJLJXJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840987184360-vc8a1ossfmvjianq0huab5h8qjc5a3l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
